@@ -6,4 +6,4 @@ The talk will gently introduce Python Programming Language to Bioinfomatics stud
 ## Contents
 
 - [Powerpoint presentation]()
-- [Jupyter Notebook files (.ipynb)]("https://github.com/elvinado/Problem-Solving-Kit/blob/main/Python_Problem_Solving_Kit.ipynb")
+- [Jupyter Notebook files (.ipynb)](https://github.com/elvinado/Problem-Solving-Kit/blob/main/Python_Problem_Solving_Kit.ipynb)
